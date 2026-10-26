@@ -2,6 +2,14 @@
 
 Newest pack first.
 
+## ValheimModPack 2026.10.26 (built 2026-10-26 00:33 UTC, Valheim 1.0.20)
+
+Added:
+
+- Local-GrowUpTimer 1.0.0
+  - Add Grow Up Timer that shows when young creatures grow up
+  - Log Grow Up Timer's young creatures, hovers and growth for debugging
+
 ## ValheimModPack 2026.10.26 (built 2026-10-26 00:29 UTC, Valheim 1.0.20)
 
 Updated:
