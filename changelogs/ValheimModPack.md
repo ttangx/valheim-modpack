@@ -2,6 +2,41 @@
 
 Newest pack first.
 
+## ValheimModPack 2026.10.26 (built 2026-10-26 17:14 UTC, Valheim 1.0.20)
+
+Added:
+
+- Local-ScrapMapPins 1.0.0
+  - Add Scrap Map Pins that shows loose scrap iron on the minimap
+- Local-HoeLineSnap 1.0.0
+  - Add Hoe Line Snap: straight-line snapping for SmarterHoe terrain edits
+  - Read the placement ghost through FieldInfo for the .NET Framework compiler
+  - Draw the Hoe Line Snap guide point by point for the .NET Framework compiler
+
+Updated:
+
+- Local-CaveScanner 1.2.0 -> 1.3.0
+  - Cave Scanner 1.3.0: Escape closes the scanner without opening the game menu
+- Local-PerformanceTuner 1.1.1 -> 1.2.0
+  - Cache the server world map in Performance Tuner 1.2.0
+- Local-LockStackGuard 2.7.0 -> 2.7.2
+  - Lock Stack Guard 2.7.1: refill potions from a just-closed barrel; log why chests give none
+  - Lock Stack Guard 2.7.2: log resolved potion names and every carried potion stack
+
+Settings changed:
+
+- com.jubaroo.smarterhoe.cfg
+- local.valheim.buildableonly.cfg
+- local.valheim.cavescanner.cfg
+- local.valheim.lockstackguard.cfg
+- local.valheim.performancetuner.cfg
+- xtav1m.BetterMap.cfg
+
+Map data updated:
+
+- IdolMapPins/-4693685.txt
+- WorldSeedLogger/worlds.txt
+
 ## ValheimModPack 2026.10.26 (built 2026-10-26 01:32 UTC, Valheim 1.0.20)
 
 Settings changed:
