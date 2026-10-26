@@ -2,6 +2,17 @@
 
 Newest pack first.
 
+## ValheimModPack 2026.10.26 (built 2026-10-26 01:30 UTC, Valheim 1.0.20)
+
+Added:
+
+- Local-GammeltrollIcon 1.0.0
+  - Add Gammeltroll Icon that gives the Gammeltroll a creature radar icon
+
+Updated:
+
+- Local-PerformanceTuner 1.1.0 -> 1.1.1
+
 ## ValheimModPack 2026.10.26 (built 2026-10-26 00:33 UTC, Valheim 1.0.20)
 
 Added:
