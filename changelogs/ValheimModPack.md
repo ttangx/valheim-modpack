@@ -2,6 +2,12 @@
 
 Newest pack first.
 
+## ValheimModPack 2026.10.26 (built 2026-10-26 01:32 UTC, Valheim 1.0.20)
+
+Settings changed:
+
+- xtav1m.BetterMap.cfg (BetterMap Lingonberry Pins 1.0.0: auto-pin lingonberry bushes in the Deep North)
+
 ## ValheimModPack 2026.10.26 (built 2026-10-26 01:30 UTC, Valheim 1.0.20)
 
 Added:
@@ -12,6 +18,7 @@ Added:
 Updated:
 
 - Local-PerformanceTuner 1.1.0 -> 1.1.1
+  - Add a running off-thread verdict to Performance Tuner's character save lines (1.1.1)
 
 ## ValheimModPack 2026.10.26 (built 2026-10-26 00:33 UTC, Valheim 1.0.20)
 
