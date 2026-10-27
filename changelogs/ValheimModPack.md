@@ -2,6 +2,12 @@
 
 Newest pack first.
 
+## ValheimModPack 2026.10.27 (built 2026-10-27 17:31 UTC, Valheim 1.0.20)
+
+Map data updated:
+
+- WorldSeedLogger/worlds.txt
+
 ## ValheimModPack 2026.10.27 (built 2026-10-27 01:30 UTC, Valheim 1.0.20)
 
 Added:
