@@ -2,6 +2,34 @@
 
 Newest pack first.
 
+## ValheimModPack 2026.10.27 (built 2026-10-27 01:30 UTC, Valheim 1.0.20)
+
+Added:
+
+- Local-WorldCapture 1.0.0
+  - Add World Capture 1.0.0: rebuild server zones as a local world
+- JereKuusela-ESP 1.40.0
+
+Updated:
+
+- Local-LockStackGuard 2.7.2 -> 2.9.0
+  - Lock Stack Guard 2.8.0: refill and re-lock potion stacks drunk to empty
+  - Lock Stack Guard 2.9.0: color kit and potion refill cells in the inventory
+- Local-PerformanceTuner 1.2.0 -> 1.3.0
+  - Throttle wandering tames in Performance Tuner 1.3.0
+
+Settings changed:
+
+- com.jubaroo.smarterhoe.cfg
+- local.valheim.lockstackguard.cfg
+- local.valheim.performancetuner.cfg
+- seneaL.valheim.ui.cfg
+
+Map data updated:
+
+- IdolMapPins/-4693685.txt
+- WorldSeedLogger/worlds.txt
+
 ## ValheimModPack 2026.10.26 (built 2026-10-26 17:14 UTC, Valheim 1.0.20)
 
 Added:
