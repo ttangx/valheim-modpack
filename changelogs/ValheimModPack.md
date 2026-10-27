@@ -2,6 +2,22 @@
 
 Newest pack first.
 
+## ValheimModPack 2026.10.27 (built 2026-10-27 22:08 UTC, Valheim 1.0.20)
+
+Added:
+
+- Local-MechaSuit 1.0.0
+  - Add Mecha Suit 1.0.0: a troll-sized pilotable mech with weapons, jetpack and cockpit HUD
+
+Updated:
+
+- Local-WorldCapture 1.1.0 -> 1.3.0
+  - World Capture 1.2.0: keep far-end portals so copies' portals lead somewhere
+  - World Capture 1.3.0: ask for every far end and show capture state on portal hover
+- Local-BaseAreaVisuals 1.0.0 -> 1.1.1
+  - Add comfort map to Base Area Visuals 1.1.0
+  - Make Y turn comfort visuals off and work while moving
+
 ## ValheimModPack 2026.10.27 (built 2026-10-27 17:42 UTC, Valheim 1.0.20)
 
 Added:
