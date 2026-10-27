@@ -2,6 +2,41 @@
 
 Newest pack first.
 
+## ValheimModPack 2026.10.27 (built 2026-10-27 17:42 UTC, Valheim 1.0.20)
+
+Added:
+
+- Local-BaseAreaVisuals 1.0.0
+  - Add Base Area Visuals to replace ESP
+
+Updated:
+
+- Local-PerformanceTuner 1.3.0 -> 1.4.0
+  - Spread the periodic pin rescan in Performance Tuner 1.4.0
+- Local-CameraColliderGuard 1.0.0 -> 1.1.0
+- Local-MemorialCoalPins 1.0.0 -> 1.1.0
+  - Classify memorial coal sources once in Memorial Coal Pins 1.1.0
+- Local-WardMapPins 1.0.0 -> 1.1.0
+  - Rebuild ward pins only on change in Ward Map Pins 1.1.0
+- Local-FishMapPins 1.0.0 -> 1.1.0
+  - Read each fish once in Fish Map Pins 1.1.0
+- Local-ScrapMapPins 1.0.0 -> 1.1.0
+  - Classify loose items once in Scrap Map Pins 1.1.0
+- Local-WorldCapture 1.0.0 -> 1.1.0
+  - Spread World Capture 1.1.0 work over frames and a background writer
+- Local-OatMapPins 1.2.0 -> 1.3.0
+  - Cut Oat Map Pins sweep cost in 1.3.0
+- Local-IdolMapPins 1.1.0 -> 1.2.0
+  - Cut Idol Map Pins sweep cost in 1.2.0
+
+Removed:
+
+- JereKuusela-ESP 1.40.0
+
+Settings changed:
+
+- com.kimbauer.valheim.cameracull.cfg
+
 ## ValheimModPack 2026.10.27 (built 2026-10-27 17:31 UTC, Valheim 1.0.20)
 
 Map data updated:
