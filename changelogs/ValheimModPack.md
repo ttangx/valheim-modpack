@@ -2,6 +2,41 @@
 
 Newest pack first.
 
+## ValheimModPack 2026.10.28 (built 2026-10-28 01:25 UTC, Valheim 1.0.20)
+
+Updated:
+
+- Local-BaseAreaVisuals 1.1.1 -> 1.2.0
+  - Show what raises comfort in the build menu (Base Area Visuals 1.2.0)
+- Local-MechaSuit 1.0.0 -> 1.2.0
+  - Add the Colossus to Mecha Suit 1.1.0: a gammeltroll-sized wolf super-robot that transforms in the air
+  - Make the Colossus gammeltroll-sized and record its build and binding checks
+  - Add a targeting diagnostic and a full-size Colossus view shot list
+  - Give the Colossus a laser, missile salvo, sword combo, plane and sea forms
+  - Land the Colossus when it rests on a slope, and tidy the flight hints
+  - Add a sea test hook and shot list for the Colossus
+  - Keep the Colossus flying when it takes off from the sea
+  - Splash the Colossus down only when it is back at its floating height
+  - Document the Colossus sea shot list
+  - Let the Colossus trample through forest and keep its pilot dry at sea
+  - Refuse the Wet effect for the Colossus pilot instead of clearing it each frame
+  - Give the Colossus a longship sea form, a laser impact marker, finned missiles, a rising third swing and a faster boost
+
+Settings changed:
+
+- local.valheim.baseareavisuals.cfg
+- local.valheim.mechasuit.cfg
+
+Map data updated:
+
+- FrozenLakePins/-4693685.txt
+- IdolMapPins/-4693685.txt
+- IdolMapPins/328449766.txt
+- MemorialCoalPins/-4693685.txt
+- OatMapPins/-4693685.txt
+- WardMapPins/-4693685.txt
+- WorldSeedLogger/worlds.txt
+
 ## ValheimModPack 2026.10.27 (built 2026-10-27 22:08 UTC, Valheim 1.0.20)
 
 Added:
