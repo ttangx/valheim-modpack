@@ -2,6 +2,35 @@
 
 Newest pack first.
 
+## ValheimModPack 2026.10.28 (built 2026-10-28 23:09 UTC, Valheim 1.0.20)
+
+Updated:
+
+- Local-MechaSuit 1.2.0 -> 1.3.0
+  - Give the Colossus a longship sea form, a laser impact marker, finned missiles, a rising third swing and a faster boost
+- Local-BaseAreaVisuals 1.2.0 -> 1.2.1
+  - Show the comfort marks in SeneaL UI's build menu (Base Area Visuals 1.2.1)
+- Local-LockStackGuard 2.9.0 -> 2.11.0
+  - Lock Stack Guard 2.10.0: reach chests within 20 m for Fill kit and potion top-ups
+  - Lock Stack Guard 2.11.0: claim chests another player's game owns before filling the kit
+
+Now optional (the installer asks):
+
+- Local-LagTracer
+- Local-WorldSeedLogger
+- Local-WorldCapture
+- Local-MechaSuit
+
+Settings changed:
+
+- local.valheim.baseareavisuals.cfg
+- local.valheim.mechasuit.cfg
+- seneaL.valheim.ui.cfg
+
+Map data updated:
+
+- IdolMapPins/-4693685.txt
+
 ## ValheimModPack 2026.10.28 (built 2026-10-28 01:25 UTC, Valheim 1.0.20)
 
 Updated:
