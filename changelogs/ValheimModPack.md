@@ -2,6 +2,44 @@
 
 Newest pack first.
 
+## ValheimModPack 2026.10.31 (built 2026-10-31 15:52 UTC, Valheim 1.0.21)
+
+Added:
+
+- Local-PortalSnap 1.2.0
+  - Add Portal Snap 1.0.0: end portal loading once the arrival has loaded
+  - Place arrival zones without the 0.1 s tick in Portal Snap 1.1.0
+  - Ignore small object-count churn in Portal Snap 1.2.0
+
+Updated:
+
+- Local-QuickConnectCaseFix 1.0.0 -> 1.1.0
+  - Save dedicated servers by address in Quick Connect Case Fix 1.1.0
+
+Removed:
+
+- Local-GemProcBalance 1.0.0
+
+Game:
+
+- Built for Valheim 1.0.21 (was 1.0.20)
+
+Settings changed:
+
+- com.jubaroo.smarterhoe.cfg
+- local.valheim.baseareavisuals.cfg
+- local.valheim.buildableonly.cfg
+- local.valheim.lockstackguard.cfg
+- local.valheim.mechasuit.cfg
+- seneaL.valheim.ui.cfg
+
+Map data updated:
+
+- IdolMapPins/-4693685.txt
+- MemorialCoalPins/-4693685.txt
+- WardMapPins/-4693685.txt
+- WorldSeedLogger/worlds.txt
+
 ## ValheimModPack 2026.10.28 (built 2026-10-28 23:09 UTC, Valheim 1.0.20)
 
 Updated:
